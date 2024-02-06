@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sammodaka Wijaya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammodaka&label=Profile%20views&color=0e75b6&style=flat" alt="sammodaka" /> </p>
 
-- 🔭 I’m currently working on **Business Web and Mobile Application Development**
+- 🔭 I’m currently working on **Business Web, Mobile Application Development, Social Media, Ecommerce Platforms**
 
 - 🌱 I’m currently learning **Project Management Framework (Agile, Waterfall, LESS, etc).Programming Languages (HTML, CSS, JAVA, JAVASCRIPT, SQL), Mendix, Figma, UI UX**
 
